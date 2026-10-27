@@ -1,13 +1,10 @@
 # Proyecto del equipo
 
-Nombre del proyecto: TechSolutions
+Nombre del proyecto: LAA
 
 ## Miembros
 
-* Lorena
-Nombre del proyecto: Proyecto Optativa 2k26
-
-## Miembros
-
-Alejandro Fernández Torres 2º DAW
+- Agustín
+- Lorena
+- Alejandro Fernández Torres 2º DAW
 
