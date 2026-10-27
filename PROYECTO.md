@@ -1,5 +1,10 @@
 # Proyecto del equipo
 
+Nombre del proyecto: TechSolutions
+
+## Miembros
+
+* Lorena
 Nombre del proyecto: Proyecto Optativa 2k26
 
 ## Miembros
